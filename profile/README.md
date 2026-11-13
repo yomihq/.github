@@ -10,7 +10,8 @@ One conversation, everywhere:
 
 - 🌐 **Web app** at [getyomi.in](https://getyomi.in), installable with notifications
 - 📱 **Android app**, in testing: [join the testers](https://getyomi.in/test)
-- 💬 **Telegram** · **Discord** · **Slack** · **iMessage** (beta)
+- 💬 **Telegram** · **Discord** · **Slack**
+- 🍏 **iMessage**, in beta with limited spots
 - 🛠️ **Linear** and **GitHub**: mention Yomi on an issue to hand it work
 
 ### How it's built
